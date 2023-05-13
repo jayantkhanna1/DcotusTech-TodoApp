@@ -1,6 +1,5 @@
-# todoApp-react-django
-
-### Simple TODO app using Django as backend and ReactJS as frontend
+# Doctus Tech
+### Todo App
 
 #### To start the app:
 1. cd to project folder:
